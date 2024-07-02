@@ -148,5 +148,13 @@ svg {
 }
 
 .button--open {
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
   margin: 26px 18px 25px 0;
+}
+
+.button--open:hover {
+  transform: scale(101%);
+  background-color: var(--white-color);
+  color: var(--second-color)
 }
