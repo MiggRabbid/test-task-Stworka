@@ -1,6 +1,6 @@
 {
   "name": "test-task-stworka-p1",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,5 @@
     "url": "https://github.com/MiggRabbid/test-task-Stworka-p1/issues"
   },
   "homepage": "https://github.com/MiggRabbid/test-task-Stworka-p1#readme",
-  "description": "Test Task for Stworka"
+  "description": "Test Task for Stworka (layout)"
 }
