@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+
+  <title>Test Task for Stworka</title>
+</head>
+<body>
+  <main>
+    <section class="checklist">
+      <div class="checklist__progress">
+        <svg class="progress__ring">
+          <circle cx="30" cy="30" r="30"></circle>
+          <circle class="progress__circle" cx="30" cy="30" r="30"></circle>
+        </svg>
+        <p class="progress__step">0/7</p>
+      </div>
+      <div class="checklist__body">
+        <div class="body__title"><p>Чеклист</p></div>
+        <div class="body__actions">
+          <div class="action action__main">
+            <p class="action__main--label">Выполнено:</p>
+            <p class="action__main--details">0 из 7 действий</p>
+          </div>
+          <div class="action action__second">
+            <p class="action__second--label">Следующее действие:</p>
+            <p class="action__second--details">Созвониться с клиентом до 23.05.24 12:00</p>
+          </div>
+        </div>
+      </div>
+      <div class="checklist__buttons">
+        <button class="button button--open" type="button">Открыть чеклист</button>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
