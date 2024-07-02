@@ -7,13 +7,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/MiggRabbid/test-task-Stworka.git"
+    "url": "git+ssh://git@github.com/MiggRabbid/test-task-Stworka-p1.git"
   },
   "author": "MiggRabbid",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MiggRabbid/test-task-Stworka/issues"
+    "url": "https://github.com/MiggRabbid/test-task-Stworka-p1/issues"
   },
-  "homepage": "https://github.com/MiggRabbid/test-task-Stworka#readme",
+  "homepage": "https://github.com/MiggRabbid/test-task-Stworka-p1#readme",
   "description": "Test Task for Stworka"
 }
